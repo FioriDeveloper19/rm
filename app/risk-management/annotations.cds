@@ -122,7 +122,7 @@ annotate service.Risks with @(
     ]
 );
 annotate service.Risks with {
-    prio @Common.Label : 'Prioridad'
+    prio @Common.Label : 'Priority'
 };
 annotate service.Risks with @(
     UI.HeaderInfo : {
